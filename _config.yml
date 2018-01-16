@@ -10,11 +10,11 @@ exclude:
 
 # Site settings
 title: Valeyard Studio
-subtitle: "专注数据的价值"
+subtitle: "溪谷院工作室"
 email: xcodeman@gmail.com
-name: Qiulin
+name: qlin
 description: >
-  挖掘数据的价值
+  专注数据的价值
 
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
