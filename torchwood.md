@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Torchwood
+title: TDAP
 permalink: /torwood/
 ---
 
-### Torchwood Data Analystics Platform
+### Torchwood Data Analytics Platform
 
