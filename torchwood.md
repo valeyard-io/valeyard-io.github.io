@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TDAP
-permalink: /torwood/
+permalink: /torchwood/
 ---
 
 ### Torchwood Data Analytics Platform
