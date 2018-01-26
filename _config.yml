@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Valeyard Studio
-subtitle: "溪谷院工作室"
+title: Valeyard Studio 溪谷院数据工作室
+subtitle: "专注数据的价值"
 email: xcodeman@gmail.com
 name: qlin
 description: >
