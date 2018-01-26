@@ -4,7 +4,7 @@ title: DataVale
 permalink: /datavale/
 ---
 
-### DataVale Analytics Platform 数据溪谷分析平台
+### 数据溪谷（DataVale）数据分析平台
 
 
 
